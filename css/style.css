@@ -1,0 +1,23 @@
+h1{
+    color: rgb(0, 68, 255);
+    background-color: aliceblue;
+
+}
+
+
+p{
+    color: black;
+    background-color: bisque;
+    font-size: 30px;
+    text-align: justify;
+    text-decoration: none;
+    text-decoration-style:none;
+    text-decoration-color: orange;
+    text-transform: capitalize;
+    line-height: 1.2;
+    word-spacing: normal;
+    letter-spacing: normal;
+    font-family: 'Oswald', sans-serif;
+
+
+}
